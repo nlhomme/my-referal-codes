@@ -1,5 +1,5 @@
-# my-referal-codes
-EN: We all got referal codes, here are mine
+# My referal codes / Mes codes parrainage
+EN: We all got referal codes, here are mine </p>
 FR: Nous avons tous des code parrainage, voici les miens
 
 
